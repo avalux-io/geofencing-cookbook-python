@@ -37,7 +37,7 @@ The whole library is one file. That is not a mistake, it is a feature. You can r
 ## Quick start
 
 ```bash
-git clone https://github.com/elikem2021/geofencing-cookbook-python.git
+git clone https://github.com/avalux-io/geofencing-cookbook-python.git
 cd geofencing-cookbook-python
 python3 -m venv .venv && source .venv/bin/activate
 python3 src/geofencing/zones.py
@@ -158,8 +158,8 @@ The math here is correct. The plumbing is not included. That is the difference b
 
 We maintain a small portfolio of focused tooling for SMB ops:
 
-- [freight-eta-toolkit](https://github.com/elikem2021/freight-eta-toolkit): ETA calculation utilities for freight dispatch
-- [avalux-open-source](https://github.com/elikem2021/avalux-open-source): index of every public Avalux repo
+- [freight-eta-toolkit](https://github.com/avalux-io/freight-eta-toolkit): ETA calculation utilities for freight dispatch
+- [avalux-open-source](https://github.com/avalux-io/avalux-open-source): index of every public Avalux repo
 
 ## License
 
